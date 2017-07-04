@@ -83,3 +83,9 @@ DNF|TXGuiFoundation|258*183
 京东|TXGuiFoundation|314*212
 众创空间|TXGuiFoundation|314*212
 *|#32770|350*450
+用户调研|TXGuiFoundation|314*212
+腾讯电脑管家|TXGuiFoundation|258*183
+腾讯理财通|TXGuiFoundation|314*212
+基于梯度下降算法求解线性回归 - 关注微信公众号【OpenCV学堂】 - 博客频道 - CSDN.NET - Google Chrome|Chrome_WidgetWin_1|1938*1050
+基于梯度下降算法求解线性回归 - 关注微信公众号【OpenCV学堂】 - 博客频道 - CSDN.NET - Google Chrome|Chrome_WidgetWin_1|1938*1050
+QQ聊天室|TXGuiFoundation|314*212
