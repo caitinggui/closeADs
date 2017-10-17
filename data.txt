@@ -89,3 +89,8 @@ DNF|TXGuiFoundation|258*183
 基于梯度下降算法求解线性回归 - 关注微信公众号【OpenCV学堂】 - 博客频道 - CSDN.NET - Google Chrome|Chrome_WidgetWin_1|1938*1050
 基于梯度下降算法求解线性回归 - 关注微信公众号【OpenCV学堂】 - 博客频道 - CSDN.NET - Google Chrome|Chrome_WidgetWin_1|1938*1050
 QQ聊天室|TXGuiFoundation|314*212
+腾讯课堂|TXGuiFoundation|314*212
+腾讯游戏|TXGuiFoundation|314*212
+轩辕传奇手游|TXGuiFoundation|314*212
+一生保|TXGuiFoundation|314*212
+腾讯新闻|TXGuiFoundation|314*212
